@@ -1,0 +1,14 @@
+git add/remove . -> aggiungi tutti i file nel repo locale in maniera temporanea
+git ad/remove [file] 
+git status -> controlla lo status dei file (aggiunto, eliminato, modificato)
+git commit -m "Messaggio qui" -> aggiungi i file nel repo locale (-m "messaggio" é opzionale)
+git push -> carica i file nel repo online
+
+Installa librerie con requirement
+
+1) Apri il terminale da pycharm per entrare nel venv (tasto destro sul progetto -> apri terminale)
+2) Esegui
+    pip install -r requirements.txt
+
+RoadMap
+https://trello.com/b/aSv7NUN7/tradingapp
